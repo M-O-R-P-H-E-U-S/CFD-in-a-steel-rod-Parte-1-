@@ -1,1 +1,1 @@
-# CTIC_II
+# Design of an electromagnetic accelerator
