@@ -5,3 +5,9 @@
 
 -Pasante como Analista de Datos en Ernst & Young.
 
+## Situación problemática
+
+Implementación de un sistema mecánico en el cañón de un tanque de guerra guiado por un marcador láser.
+
+Reducir los costos en compra o fabricaci\'on de cañones guiados, para los entrenamientos realizados por Ejercto del Per\'u. 
+
