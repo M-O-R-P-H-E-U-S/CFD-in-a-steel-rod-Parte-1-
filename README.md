@@ -11,14 +11,14 @@ Implementación de un sistema mecánico en el cañón de un tanque de guerra gui
 
 Reducir los costos en compra o fabricacion de cañones guiados, para los entrenamientos realizados por Ejercto del Peru. 
 
-# Formulación del problema
-
+FORMULACION DEL PROBLEMA
+-----
 Al maniobrar un tanque de guerra se depende mucho del soldado a cargo del cañón, es decir que si el soldado despega los ojos del objetivo del blanco por cualquier causa ya sea un bache en la trayectoria o un mal movimiento dentro del vehículo, se podría perder al objetivo. Por ello la necesidad de diseñar e implementar un sistema de guiado.
 
 Además de Proponer un modelo de entrenamiento simulado de bajo costo. 
 
-# Justificación
-
+JUSTIFICACION
+-----
 El desarrollo del problema se realizo en el caso más sencillo haciendo escalable el análisis. Se comenzó planteando una solución en el rango del espectro visible para el marcador láser. Posteriormente para el sistema mecánico sobre el tanque es representado por un brazo de impresión 3D y dos servos motores, la cámara web nos ayuda a resolver la posición del láser sobre nuestro objetivo dando nos nuestro blanco de tiro.
 
 El algoritmo seguido muestra resultados sencillos de replicar. Un resultado de bajo costo gracias a que todo el trabajo es realizado por computadora permita reducir los gastos de fabricacion en prototipos.
