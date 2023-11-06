@@ -43,6 +43,8 @@ El presente trabajo como se expone es aplicable y viable.
 
 
 
+![CRONOGRAMA](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/CRONOGRAMA.jpg)
+
 
 ![mov](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/mov.jpeg)
 
