@@ -55,31 +55,17 @@ como polo norte y el otro como polo sur.
 
 ![William_Gilbert](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/William_Gilbert.jpg) ![Faraday](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/Faraday.jpg)
 
-![Hans_Christian](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/Hans_Christian.jpg) ![Maxwell](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/Maxwell.jpg)
-
-
-
-
-
-
-
-
-
 A principios del siglo XIX, se hizo un descubrimiento significativo que estableció una conexión profunda entre la
 electricidad y el magnetismo. En Dinamarca, Hans Christian Oersted descubrió que una corriente eléctrica genera un
 campo magnético a su alrededor, mientras que Faraday demostró que un campo magnético en constante cambio produce
 flujo de corriente eléctrica. Estos hallazgos sentaron las bases para el desarrollo de la dinamo eléctrica y el generador,
 dispositivos de gran importancia en la ingeniería moderna.
 
-
-
-
+![Hans_Christian](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/Hans_Christian.jpg) ![Maxwell](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/Maxwell.jpg)
 
 El paso crucial se dio en la década de 1850, cuando Maxwell unificó la electricidad y el magnetismo en su teoría del
 electromagnetismo, que fue la primera teoría de un campo unificado. Esta teoría siguió siendo válida con éxito después
 de incorporar las sutilezas necesarias para tener en cuenta los efectos cuánticos.
-
-
 
 METODOLOGIA
 -----
