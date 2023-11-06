@@ -42,10 +42,9 @@ El algoritmo seguido muestra resultados sencillos de replicar. Un resultado de b
 El presente trabajo como se expone es aplicable y viable.  
 
 
-| CONCEPTO DE PPTO              |     FASE      |   TOTAL      |
-| -------------                 | ------------- |------------- |
-| SISTEMA DE GUIADO DE LASER    |               |              |
-|USANDO VISION POR COMPUTADORA  |    1RA FASE   |   S/.310     |
+| CONCEPTO DE PPTO                                         |     FASE      |   TOTAL      |
+| -------------                                            | ------------- |------------- |
+|SISTEMA DE GUIADO DE LASER USANDO VISION POR COMPUTADORA  |    1RA FASE   |   S/.310     |
 
 
 
