@@ -73,7 +73,7 @@ METODOLOGIA
 Sistema Mecanico
 -----
 
-
+Para el diseño del sistema mecánico se uso una placa de arduino UNO, dos servo motores y para armar el pan tilt que conformaron los servo motores.
 
 
 
@@ -82,7 +82,18 @@ Sistema Mecanico
 Vision por Computadora
 -----
 
+Para marcar el objetivo se utilizo un láser de color verde. La solución planteada para nuestra problemática es resuelta
+en rango del espectro visible. Los materiales usados se listan a continuación: una cámara asus, un
+tanque realizado en el software Fusion 360 y una mira láser que sera usado como marcador.
 
+
+
+
+Para el desarrollo del algoritmo realizado en python debe entenderse que ante los ojos humanos el sistema de medición
+es el metro, pero ante los ojos de la computadora que este caso seria la cámara el sistema de medición es el píxel. Es
+decir mediante una traslación y rotación de ejes logramos transformar el sistema coordenado de la posición del marcador
+láser al sistema coordenado de la cámara. Una vez realizado esta transformación se logra identificar la posición del
+objetivo según las coordenadas desde la cámara.
 
 
 ![mov](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/mov.jpeg)
