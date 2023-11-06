@@ -1,8 +1,3 @@
----
-bibliography: Bibliography.bib
-csl: apa.csl
----
-
 ## SISTEMA DE GUIADO DE LASER USANDO VISION POR COMPUTADORA
 
 EXPERIENCIA DEL INVESTIGADOR
