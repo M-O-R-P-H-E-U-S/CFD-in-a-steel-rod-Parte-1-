@@ -35,6 +35,16 @@ El algoritmo seguido muestra resultados sencillos de replicar. Un resultado de b
     
 -Proponer un sistema mecánico guiado por marcador láser de bajo costo como en la modernización de tanques de guerra.
 
+
+
+
+
+
+
+
+
+
+
 -El  algoritmo  implementado  será  multiplataforma,  por  lo  que  el  ejecutable podrá  ser  ejecutado  en  cualquier  sistema  operativo.
 
 # Alcance
