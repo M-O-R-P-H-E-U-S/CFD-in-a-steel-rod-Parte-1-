@@ -23,42 +23,25 @@ El desarrollo del problema se realizo en el caso más sencillo haciendo escalabl
 
 El algoritmo seguido muestra resultados sencillos de replicar. Un resultado de bajo costo gracias a que todo el trabajo es realizado por computadora permita reducir los gastos de fabricacion en prototipos.
 
-# Objetivos generales
-
+OBJETIVOS GENERALES
+-----
 -Analizar las diferentes librerias y paqueterias de python en relacion a Vision Artificial.
     
 -Formular una idea inicial escalable no solo de sistemas mecánicos guiados por marcador láser en los tanques de guerra. Implementar el sistema en aviones y barcos de guerra.
 
-# Objetivos especificos
-
+OBJETIVOS ESPECIFICOS
+-----
 -Diseño  de  una  arquitectura  de  procesamiento de imagenes para el reconocimiento de objetivos marcados por laser.
     
 -Proponer un sistema mecánico guiado por marcador láser de bajo costo como en la modernización de tanques de guerra.
 
 -El  algoritmo  implementado  será  multiplataforma,  por  lo  que  el  ejecutable podrá  ser  ejecutado  en  cualquier  sistema  operativo.
 
-# Alcance
-
+ALCANCE
+-----
 El presente trabajo como se expone es aplicable y viable.  
 
 
-| CONCEPTO DE PPTO                                         |     FASE      |   TOTAL      |
-| -------------                                            | ------------- |------------- |
-|SISTEMA DE GUIADO DE LASER USANDO VISION POR COMPUTADORA  |    1RA FASE   |   S/.310     |
-
-
-|             |                     CANTIDAD TOTAL                       | UNIDAD DE MEDIDA | PRECIO UNITARIO | PRECIO TOTAL |
-| ----------  | -------------------------------------------------------- |----------------- |-----------------|--------------|
-|LASER DIODO  |                           01                             |        UND       |     S/.40       |    S/.40     |
-|CAMARA WEB   |                           01                             |        UND       |     S/.120      |    S/.120    |
-|IMPRESION 3D |                           01                             |        UND       |     S/.70       |    S/.70     |
-|SERVO MOTOR  |                           02                             |        UND       |     S/.15       |    S/.30     |
-| ARDUINO UNO |                           01                             |        UND       |     S/.50       |    S/.50     |
-| ----------  | -------------------------------------------------------- |----------------- |-----------------|--------------|
-|    TOTAL    |                           06                             |                  |                 |    S/.310    |
-
-
-![CRONOGRAMA](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/CRONOGRAMA.jpg)
 
 
 ![mov](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/mov.jpeg)
@@ -75,23 +58,57 @@ El presente trabajo como se expone es aplicable y viable.
 
 
 
-![grafica](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/grafica.jpeg)
 
+
+
+PRESUPUESTO
+-----
+
+| CONCEPTO DE PPTO                                         |     FASE      |   TOTAL      |
+| -------------                                            | ------------- |------------- |
+|SISTEMA DE GUIADO DE LASER USANDO VISION POR COMPUTADORA  |    1RA FASE   |   S/.310     |
+
+FUENTES DE FINANCIAMIENTO
+-----
+
+|             |                     CANTIDAD TOTAL                       | UNIDAD DE MEDIDA | PRECIO UNITARIO | PRECIO TOTAL |
+| ----------  | -------------------------------------------------------- |----------------- |-----------------|--------------|
+|LASER DIODO  |                           01                             |        UND       |     S/.40       |    S/.40     |
+|CAMARA WEB   |                           01                             |        UND       |     S/.120      |    S/.120    |
+|IMPRESION 3D |                           01                             |        UND       |     S/.70       |    S/.70     |
+|SERVO MOTOR  |                           02                             |        UND       |     S/.15       |    S/.30     |
+| ARDUINO UNO |                           01                             |        UND       |     S/.50       |    S/.50     |
+| ----------  | -------------------------------------------------------- |----------------- |-----------------|--------------|
+|    TOTAL    |                           06                             |                  |                 |    S/.310    |
+
+
+![CRONOGRAMA](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/CRONOGRAMA.jpg)
+
+RESULTADOS
+-----
+
+Se logro seguir el objetivo usando el marcador láser usando visión por computadora. Ademas se simulo el comportamiento
+de las varaibles entorno al recorrido que sigue el misil disparado desde el cañon, con una velocidad de salida de 350m/s
+y con un total de 350 iteraciones
+
+![grafica](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/grafica.jpeg)
 
 ![velocidad](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/velocidad.jpeg)
 
-
 ![fuerza](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/fuerza.jpeg)
-
-
 
 ![turbulencia](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/turbulencia.jpeg)
 
 
+CONCLUSIONES
+-----
 
+* Es posible contar con un software de bajo costo para el registro de disparos simulados en un bullet de tiro.
 
+* Es posible encontrar aplicaciones de Vision Artificial en el campo militar.
 
-
+* Es posible modernizar los tanques de guerra del Perú. El trabajo presente propone la idea base para tener un sistema
+de guiado láser. Obteniendo una superioridad armamentaria en el campo de guerra.
 
 
 
