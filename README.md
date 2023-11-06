@@ -1,1 +1,2 @@
-# Design of an electromagnetic accelerator
+### Design of an electromagnetic accelerator
+##
