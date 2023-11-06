@@ -44,10 +44,31 @@ El presente trabajo como se expone es aplicable y viable.
 
 
 
+![mov](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/mov.jpeg)
 
+
+
+
+![web](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/web.jpeg)
+
+
+
+
+![varilla_acero](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/varilla_acero.jpeg)
+
+
+
+![grafica](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/grafica.jpeg)
 
 
 ![velocidad](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/velocidad.jpeg)
+
+
+![fuerza](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/fuerza.jpeg)
+
+
+
+![turbulencia](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/turbulencia.jpeg)
 
 
 
