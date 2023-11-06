@@ -1,12 +1,13 @@
-## Sistema de Guiado de Láser usando Visión por Computadora
-# Experiencia del Investigador
+## SISTEMA DE GUIADO DE LASER USANDO VISION POR COMPUTADORA
 
+EXPERIENCIA DEL INVESTIGADOR
+-----
 -Pasante de Investigación en la Universidad de Alberta, Canada. "Análisis numérico de modelos de circulación general oceánica de alta a muy alta resolución"
 
 -Pasante como Analista de Datos en Ernst & Young.
 
-# Situación problemática
-
+SITUACION PROBLEMATICA
+-----
 Implementación de un sistema mecánico en el cañón de un tanque de guerra guiado por un marcador láser.
 
 Reducir los costos en compra o fabricacion de cañones guiados, para los entrenamientos realizados por Ejercto del Peru. 
@@ -40,6 +41,33 @@ OBJETIVOS ESPECIFICOS
 ALCANCE
 -----
 El presente trabajo como se expone es aplicable y viable.  
+
+INTRODUCCION
+-----
+
+A finales del siglo XVI, los científicos europeos comenzaron a comprender la verdadera esencia del magnetismo.
+William Gilbert demostró que la Tierra misma se comportaba como un imán, con propiedades similares a las de un
+imán esférico que él mismo había fabricado. También se descubrió que el magnetismo se manifestaba en dos variantes,
+conocidas como polos norte y sur, en referencia al magnetismo terrestre. De manera similar a la electricidad, los polos
+idénticos se repelen entre sí, mientras que los diferentes se atraen. Sin embargo, a diferencia de la electricidad, los
+polos magnéticos siempre parecen existir en pares, uno norte y otro sur. En una barra magnética, un extremo funciona
+como polo norte y el otro como polo sur.
+
+
+
+
+
+
+
+
+
+A principios del siglo XIX, se hizo un descubrimiento significativo que estableció una conexión profunda entre la
+electricidad y el magnetismo. En Dinamarca, Hans Christian Oersted descubrió que una corriente eléctrica genera un
+campo magnético a su alrededor, mientras que Faraday demostró que un campo magnético en constante cambio produce
+flujo de corriente eléctrica. Estos hallazgos sentaron las bases para el desarrollo de la dinamo eléctrica y el generador,
+dispositivos de gran importancia en la ingeniería moderna.
+
+
 
 
 
