@@ -77,6 +77,20 @@ de incorporar las sutilezas necesarias para tener en cuenta los efectos cuántic
 
 
 
+METODOLOGIA
+-----
+
+Sistema Mecanico
+-----
+
+
+
+
+
+
+
+Vision por Computadora
+-----
 
 
 
