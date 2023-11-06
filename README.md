@@ -47,6 +47,15 @@ El presente trabajo como se expone es aplicable y viable.
 |SISTEMA DE GUIADO DE LASER USANDO VISION POR COMPUTADORA  |    1RA FASE   |   S/.310     |
 
 
+|             |                     CANTIDAD TOTAL                       | UNIDAD DE MEDIDA | PRECIO UNITARIO | PRECIO TOTAL |
+| ----------  | -------------------------------------------------------- |----------------- |-----------------|--------------|
+|LASER DIODO  |                           01                             |        UND       |     S/.40       |    S/.40     |
+|CAMARA WEB   |                           01                             |        UND       |     S/.120      |    S/.120    |
+|IMPRESION 3D |                           01                             |        UND       |     S/.70       |    S/.70     |
+|SERVO MOTOR  |                           02                             |        UND       |     S/.15       |    S/.30     |
+| ARDUINO UNO |                           01                             |        UND       |     S/.50       |    S/.50     |
+| ----------  | -------------------------------------------------------- |----------------- |-----------------|--------------|
+|    TOTAL    |                           06                             |                  |                 |    S/.310    |
 
 
 ![CRONOGRAMA](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/CRONOGRAMA.jpg)
