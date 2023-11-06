@@ -53,6 +53,10 @@ idénticos se repelen entre sí, mientras que los diferentes se atraen. Sin emba
 polos magnéticos siempre parecen existir en pares, uno norte y otro sur. En una barra magnética, un extremo funciona
 como polo norte y el otro como polo sur.
 
+![William_Gilbert](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/William_Gilbert.jpg) ![Faraday](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/Faraday.jpg)
+
+![Hans_Christian](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/Hans_Christian.jpg) ![Maxwell](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/Maxwell.jpg)
+
 
 
 
