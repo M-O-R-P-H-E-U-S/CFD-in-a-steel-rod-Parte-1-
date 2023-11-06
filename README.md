@@ -71,6 +71,15 @@ dispositivos de gran importancia en la ingeniería moderna.
 
 
 
+El paso crucial se dio en la década de 1850, cuando Maxwell unificó la electricidad y el magnetismo en su teoría del
+electromagnetismo, que fue la primera teoría de un campo unificado. Esta teoría siguió siendo válida con éxito después
+de incorporar las sutilezas necesarias para tener en cuenta los efectos cuánticos.
+
+
+
+
+
+
 
 ![mov](https://github.com/M-O-R-P-H-E-U-S/Design-of-an-electromagnetic-accelerator/blob/main/mov.jpeg)
 
